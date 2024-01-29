@@ -1,0 +1,38 @@
+body {
+    background-color: rgba(0, 5, 88, 0.902);
+    font-family: system-ui;
+}
+
+h2 {
+    color: rgb(196, 7, 7);
+    font-style: italic;
+    border-color: aqua;
+}
+
+.blog {
+    color: rgb(166, 190, 201);
+    padding-top: 3px;
+    font-size: 15px;
+}
+
+.error {
+    color: red;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.addblog {
+    color: aqua;
+}
+
+.login {
+    color: yellow;
+}
+
+.logInfo {
+    color: white;
+}
